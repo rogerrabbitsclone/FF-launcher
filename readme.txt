@@ -8,3 +8,6 @@ IsRelative=0
 Path=X:\profiles\7a9fvn23e.default (here you would put the path to your profile in the new truecrypt volume)
 
 the program passes the password you enter directly to truecrypt. it also uses the /w arguement when dismounting. 
+
+
+always check the notes in the source for up-to-date info
