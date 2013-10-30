@@ -36,7 +36,7 @@ While 1
       Exit
    Else
 	  $count = $count - 1
-      MsgBox (16, "Wrong password", "You have " & $count & " more attempts until the system is locked down")
+      MsgBox (16, "Wrong password", "You have " & $count & " more attempts until the account is logged off. This is brians firefox profile with his saved passwords. Please do not open unless you are him. ")
    EndIf
 
    if $count == 0 Then
